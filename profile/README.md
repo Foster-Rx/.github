@@ -14,7 +14,6 @@ Foster Rx builds [Thesis Rx](https://thesisrx.ai), a platform that assembles the
 
 | Repository | What it is |
 |---|---|
-| [fosterrx-prediction-register](https://github.com/Foster-Rx/fosterrx-prediction-register) | Forecasts on clinical, regulatory and coverage events. Each is entered with a probability and a resolution rule before the outcome is known, hash-chained and timestamped, then scored when the outcome lands, misses included. A research calibration record. Not investment advice. |
 | [fosterrx-verify-mcp](https://github.com/Foster-Rx/fosterrx-verify-mcp) | A read-only connector that lets an AI assistant check a signed record against the public key and read exactly what was signed. It uses public material only and holds no credential. |
 
 ## Contact
